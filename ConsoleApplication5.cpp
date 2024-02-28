@@ -9,6 +9,7 @@ int main()
     cout << "How are you?\n";
     cout << "stroka\n";
     cout << "eshe stroka\n";
+    cout << "i eshe stroka\n";
 }
 
 
