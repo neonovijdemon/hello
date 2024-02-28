@@ -8,6 +8,7 @@ int main()
     cout << "my name is Max!\n";
     cout << "How are you?\n";
     cout << "stroka\n";
+    cout << "eshe stroka\n";
 }
 
 
