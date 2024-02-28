@@ -10,6 +10,7 @@ int main()
     cout << "stroka\n";
     cout << "eshe stroka\n";
     cout << "i eshe stroka\n";
+    cout << "commit\n";
 }
 
 
